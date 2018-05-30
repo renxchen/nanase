@@ -1,2 +1,0 @@
-this is bob 
-add to stage but not commit
